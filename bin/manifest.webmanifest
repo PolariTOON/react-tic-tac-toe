@@ -1,0 +1,14 @@
+{
+  "scope": "./",
+  "start_url": "./",
+  "dir": "ltr",
+  "lang": "en",
+  "name": "Tic Tac Toe",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "1024x1024"
+    }
+  ]
+}
