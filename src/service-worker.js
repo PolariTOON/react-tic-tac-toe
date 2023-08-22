@@ -7,6 +7,7 @@ self.addEventListener("install", (event) => {
       "//unpkg.com/react-dom@16.3.1/umd/react-dom.production.min.js",
       "./",
       "./icon.png",
+      "./icon.svg",
       "./index.css",
       "./index.js",
       "./manifest.webmanifest",

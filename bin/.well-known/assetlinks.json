@@ -1,0 +1,14 @@
+[
+  {
+  "relation": [
+    "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.polaritoon.reacttictactoe",
+    "sha256_cert_fingerprints": [
+      "98:6F:67:C8:C4:8B:9F:EC:61:B5:E2:B6:E2:41:E1:18:A4:9C:72:78:62:22:D7:49:EC:4B:EE:52:98:FB:28:0E"
+    ]
+  }
+ }
+]
